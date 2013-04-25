@@ -12,4 +12,4 @@ var triangle = {
   sideC: 5
 };
 
-console.log(triangleArea(triangle.sideA, triangle.sideB, triangle.sideC));
+document.write(triangleArea(triangle.sideA, triangle.sideB, triangle.sideC));
